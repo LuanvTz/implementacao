@@ -17,3 +17,9 @@
         font-weight: 400;
     }
 }
+@media screen and (min-width:1024px){
+    .container_frase{
+        display: block;
+        margin: auto;
+    }
+}
