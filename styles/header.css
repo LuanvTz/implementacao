@@ -11,13 +11,14 @@
 .container_titulo, .container_frase{
     display: none;
 }
+    
 @media screen and (min-width:820px){
     .container_titulo{
         display: block;
         font-weight: 400;
     }
 }
-@media screen and (min-width:1024px){
+@media screen and (min-width: 1024px){
     .container_frase{
         display: block;
         margin: auto;
